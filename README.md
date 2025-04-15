@@ -1,3 +1,5 @@
+# deprecated due to [maddie's helping hand getting hd animated stylegrounds](https://github.com/EverestAPI/ModResources/wiki/Helping-Hand-Extra-Features#animated-hd-parallax-stylegrounds).
+
 a simple implementation of HD animated parallax stylegrounds for Celeste, using code from [Maddie's Helping Hand](https://github.com/maddie480/MaddieHelpingHand).
 
 you can grab a zip from the [releases page](https://github.com/slightlyeepy/HdAnimatedStylegrounds/releases).
